@@ -100,4 +100,4 @@ There are four easy steps, once you [join GitHub](https://github.com/join):
 1. [Fork this repository](https://github.com/kentbrew/dogefaucets/fork) and get your own copy.
 2. From your own copy, [edit README.md](https://help.github.com/articles/editing-files), right here on GitHub.
 3. Again from your own copy, [submit a pull request](https://help.github.com/articles/creating-a-pull-request).
-4. Profit!
+4. Profit!!
